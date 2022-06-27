@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MerrickMath/MerrickMath.github.io-Div3Math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Introduction to Data Science. Through this course your analytial skills will be put to the test. Do you think you have what it takes? In this class we will be exploring real world data, creating reports, presentations, and more.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--- <p align="center">
+<div class="tenor-gif-embed" data-postid="24166770" data-share-method="host" data-aspect-ratio="1.40351" data-width="75%"><a href="https://tenor.com/view/date-everywhere-data-digital-marketing-gif-24166770">Date Everywhere Data GIF</a>from <a href="https://tenor.com/search/date+everywhere-gifs">Date Everywhere GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p> --->
 
-### Markdown
+### Jupyter Server
+Many of the challenges will require the use of R Studio. In this course we will conduct our data analysis using R Studio which can be accessed via the  <a href="https://jupyter.renert.housegordon.com"> Renert Jupyter Server</a>. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What Data are you interested in exploring? LET ME KNOW! 
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### Tutorials 
+<p>
+      <ul>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/IntroClass.html"> February 9: Entering a list of data, and selecting unique values from the list. </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Week2.html"> February 16: Loading a csv into R, summarizing the mean of a variable, and visualizing with a histogram. </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Tutorials/Tutorial1.html"> March 9: Introducing the tidyverse and ggplot2.  </a> </li>
+      </ul>
+</p>
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### XP Booster 
+<p>
+      <ul>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost1.pdf"> Booster 1  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost1Soln.pdf"> Booster 1 Solutions  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost2.pdf"> Booster 2  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost2Soln.pdf"> Booster 2 Solutions  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3.pdf"> Booster 3  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost3Soln.pdf"> Booster 3 Solutions  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost4.pdf"> Booster 4  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost4Soln.pdf"> Booster 4 Solutions  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost5.pdf"> Booster 5  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost5Soln.pdf"> Booster 5 Solutions  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost7.pdf"> Booster 6  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost7Soln.pdf"> Booster 6 Solutions  </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6.pdf"> Booster 7  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost6Soln.pdf"> Booster 7 Solutions  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost8.pdf"> Booster 8  </a> </li> 
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/XPBoost/XPBoost8Soln.pdf"> Booster 8 Solutions  </a> </li> 
+      </ul>
+</p>
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MerrickMath/MerrickMath.github.io-Div3Math/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
